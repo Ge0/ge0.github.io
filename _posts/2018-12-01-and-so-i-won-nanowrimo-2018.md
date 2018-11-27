@@ -117,3 +117,61 @@ enjoying writing… I made a decision. I *had* to set out to write a novel. If
 other mates did it, why wouldn’t I, after all?
 
 The NaNoWriMo was the appropriate time.
+
+# Getting started
+
+So I was thinking something like: “I need do improve the France image and I
+want do romance a friendship between Jules Brunet the french officer and
+Hijikata Toshizō, notorious member of the *shinsengumi*.”
+
+The History does not say much about their interactions. To be honests, it is
+very brief about what Brunet did in there. So I could take advantage of those
+areas of shadow.
+
+During my research, I learnt that a French named Christian Polak had made some
+ineffable work on documenting relations between Frenches and Japaneses, as much
+as commercial ones than military ones.
+
+As a matter of fact, did you know that a silk road existed between Lyon and
+Yokogama? Canuts needed japanese silkworms. Those were immune to some diseases
+the french ones were vulnerable to. If today Lyon is the capital of silk, well,
+it is thanks to Japan!
+
+In a nutshell, the very first source of information I dug into was the *Soie et
+Lumières* book, from Christian Polak. I had to pay a visit to the french
+National Library for that.
+
+*Figure*
+
+It this book, I learnt about the guidelines on how went the first french
+mission in Japan. I had a plan for my novel.
+
+The source who helped me the most was nothing but *L’engagement des officiers
+français dans la fin du shogunat et la restauration de Meiji (1867–1869)* from
+Emmanuel Faubry. It consists of a more complete resource. This author made a
+quite amazing bibliography indeed, Christian Polak’s book included.
+
+In France, the *Defence Historical Service*, whose short name is SHD for
+*Service Historique de la Défense*, contains military archive from the
+different army corps. In his ebook, Mr Faubry gave many references, folder
+numbers from the SHD which contain themselves a huge amount of handwritten
+mails from French people at the time in Japan.
+
+See how the folder looks like:
+
+*Figure*
+
+This board contains at least 150 years old handwritten notes, letters and
+reports. This is insane!
+
+I wish I showed pictures of the letters, but I need a formal authorization from
+the SHD. Which I haven’t… I must say that these brave people demand a regular
+mail rather than an electronic one. Thus being said, I am not disappointed at
+all by the fact I physically went to the *Château de Vincennes* so I could
+visit the place.
+
+I just had to review a few details as regard my novel: characters, scenes where
+they play, the main progress of my story, etc.
+
+I spent the whole October month doing so, deliberately keeping myself away from
+hacking on a personal project. I did believe in this writing project!
