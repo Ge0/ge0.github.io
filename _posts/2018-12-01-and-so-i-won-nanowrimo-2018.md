@@ -141,7 +141,7 @@ In a nutshell, the very first source of information I dug into was the *Soie et
 Lumières* book, from Christian Polak. I had to pay a visit to the french
 National Library for that.
 
-![Soie et Lumières, Christian Polak](/assets/2018-12-01-nanowrimo/1c5a5d64-07f6-435f-ab25-81982fb2e6c9.jpg.jpg)
+![Soie et Lumières, Christian Polak](/assets/2018-12-01-nanowrimo/1c5a5d64-07f6-435f-ab25-81982fb2e6c9.jpg)
 
 It this book, I learnt about the guidelines on how went the first french
 mission in Japan. I had a plan for my novel.
