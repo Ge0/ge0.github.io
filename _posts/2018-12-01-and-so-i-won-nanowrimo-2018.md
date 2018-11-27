@@ -4,15 +4,15 @@ title: "And So I Won NaNoWriMo 2018!"
 ---
 
 Every year, the [NaNoWriMo](!https://nanowrimo.org), which stands for *National
-Novel Writing Month* takes place from November 1^st^, 12.00 am, to November
-30^rd^, 11.59 pm. This annual challenge consists in writing a novel with a
+Novel Writing Month* takes place from November 1^(st), 12.00 am, to November
+30^(rd), 11.59 pm. This annual challenge consists in writing a novel with a
 minimum of 50,000 words within the mentioned period, using both the language
 and the theme of our own choice.
 
 How about the reward? Just the pleasure of having participated and having
 reached such a goal while abiding by the established rules. They are indeed
 people called “nano rebels” who, for instance, would start writing before
-November 1^st^. Others would start over an already started draft. Although
+November 1^(st). Others would start over an already started draft. Although
 cheating is technically permitted, it is at the discretion of the challengers
 but, in the end, people should really them oneself:
 
