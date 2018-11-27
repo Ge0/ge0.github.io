@@ -175,3 +175,147 @@ they play, the main progress of my story, etc.
 
 I spent the whole October month doing so, deliberately keeping myself away from
 hacking on a personal project. I did believe in this writing project!
+
+# How it went
+
+50,000 words within 30 days, it is basically 1,667 words per day.
+
+As in France November first is bank holiday (All Saints’ Day), I had some spare
+time to start writing my novel. I already knew that my prologue would deal
+with the well known
+[Kinmon incident](https://en.wikipedia.org/wiki/Kinmon_incident) where
+Hijikata, fighting heart and soul with a saber, ascertains that fire weapons
+and artillery are more efficient to shed numerous opponents.
+
+It lets me launch the great question of the novel: is it the end of the
+chivalry and fencers?
+
+Anyway I won’t spoil anything. Just notice that I wrote this first scene from
+midnight until 3.00 am, something?
+
+Since November 1st was a Thursday and that the day after was bank holiday as
+well, I had four days in a row (with my week-end) to write as much as I could.
+As regard the NaNoWriMo, the goal is quantity, not quality. One must write
+without correcting straight away. I’m not speaking about bits and pieces like
+typo; mostly about turns of phrases, paragraph to review, etc. This would be
+a major piece of work that would came aftermath…
+
+Since quantity took precedence over anything else, I managed to write around
+5,000 words in a row. All of this with my actual lazyness, my lack of
+imagination and motivation as regard a few scenes, reordering scenes from my
+plan, breaks to get some fresh air, and so on.
+
+I realized that I most enjoyed writing dialogues rather than describing stuff.
+I admitted then that I had to improve the latter point. Doing the NaNoWriMo
+is indeed a great occasion to discorver oneself, bringing to light our own
+strenghts and weaknesses.
+
+Not to forgot my entourage cheering me up. This is something that helped me a
+lot. Without mentioning the other people doing the NaNoWriMo with whom I
+share a common goal as much as emotions, fears, questionings and so forth. I
+even asked to be sponsored by a NaNoWriMo veteran just in case. This helped me
+notice that I was in the correct way to go.
+
+I also noticed that I could have planned my novel much better. I had to review
+a few historical details, which helped me to have a deeper insight on a few
+details of the history until some of the anecdotes. In my opinion this is a
+most positive contribution to my experience.
+
+I reached my goal within 11 days. My final draft is around 60,000 words lenght.
+I finished it in two weeks, thanks to an orthogonal keyboard with a *bépo*
+layout (french *dvorak* variant) which I started using a few months earlier.
+Here is what it looks like:
+
+*Figure*
+
+Let me warn you about it. This is a double investment:
+
+- the keyboard price is quite high (around a hundred euros);
+- I had to learn from scratch another keyboard layout.
+
+I am so happy with it! Still I make typing mistakes for sure, but getting used
+to new habits was quick since I chosed not to use an old *qwerty* keyboard
+anymore.
+
+In the end: I wrote around 60,000 words to relate the twists of a French who,
+once he landed to Japan, instructed young japanese people with european warfare
+and fell in love with the country so he quited the french army to help a
+rebellion in the North of the country, against the imperial army so they would
+not rule all of the Japan islands.
+
+# What is next?
+
+Phew! I feel like doing a shit ton of things but if there is one I don’t feel
+like doing at the moment, it’s remastering my novel. Why is that?
+
+I have to admit I am *lazy*. Sometimes I easily give up against difficulty. I
+nevertheless mentioned that I shall work on that, though!
+
+To be honest, facing such a difficulty while driving a big project cheered my
+up writing 60,000 words. Sooner or later, I shall achieved my artwork — well,
+if we can say this is artwork…
+
+In between it made me feel like learning back japanese! I also discovered that
+a Japanese authored a novel on Jules Brunet as well! The book is entitled
+ラ・ミッション 」 which can be litteraly read “la mission” in French,
+translatable into “the mission” in english.
+
+*Figure*
+
+On the cover, there is a drawing of Jules Brunet.
+
+You guess I’d die reading it. Hence my will to take on my self study of the
+japanese language. The end justifies the means.
+
+By the way, do you want to know what did Jules Brunet look like? You can find
+it out on the picture bolow. I barely circled him in red.
+
+*Figure*
+
+I want to do the next NaNoWriMo with other ideas:
+
+* telling an alternative story to my novel, from the opponents point of view;
+* writing a novel in a foreign language (english, esperanto, japanese…);
+* trying out sci-fi;
+* using constrained writing.
+
+I don’t lack of ideas!
+
+Once I shall be back on my feet, I’ll try to (self?) publish my novel on
+Brunet.
+
+# Final words
+
+So the 2018 NaNoWriMo edition is over. It was a great experience I recommend
+to everyone.
+
+I feel a bit ashamed of my draft and though it is in French, I will let you
+have a look if you are pleased to do so:
+https://github.com/Ge0/un-petale-dans-la-braise
+
+I indeed used github to save my work even though it does not really fits. I am
+a computer dude for ever.
+
+Do not forget that as this time I write these lines, I did not correct anything
+in my draft. So there are typos, complex turns of sentences and scenes to
+remaster.
+
+Thank for having read this post. I’ll end up with this blurb:
+
+> Jules Brunet est un jeune Français accompli : diplômé de l’École
+> polytechnique avec des résultats brillants, son début de carrière militaire
+> est prometteur. Son parcours semble tout tracé, au vu de ses nombreux atouts
+> et de ses exploits passés.
+>
+> Seconde moitié du XIXe siècle : appelé par le ministre de la Guerre dans le
+> cadre d’une mission militaire au Japon, Brunet et ses camarades sont
+> missionnés afin de moderniser l’armée nippone. Le contexte est délicat et la
+> guerre civile sévit. La course à l’armement tient en haleine le gouverneur
+> militaire du Japon, en proie au renversement par les partisans de l’Empereur.
+
+> Sur place, Brunet va nourrir un intérêt et un amour démesurés pour une
+> culture dont il ne semblait estimer la profondeur. Cet homme du monde,
+> archétype du parfait soldat du Second Empire, saura-t-il tirer parti de ses
+> innombrables qualités au service des deux pays ?
+
+See you next year!
