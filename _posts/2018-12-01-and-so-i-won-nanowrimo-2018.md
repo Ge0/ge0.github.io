@@ -87,3 +87,33 @@ credit my way?
 
 Now you know more about my attraction to Japan. Why did I want to write a
 novel?
+
+# “Art is the only thing that grants immortality.”
+
+Writing a novel? ouch! Such a pain in the butt!
+
+Firstly because it is a long-winded project. Secondly because, knowing me quite
+well, I never stay very long on the same project. I quickly get bored. It is
+a shortcoming of mines that I find it difficult to fix, despite my will to do
+so.
+
+Writing a novel, it possibly means leaving a mark of our journey on Earth, into
+the little History; into the french national library’s collection. It means 
+resisting against the preset order, against the global righteousness that makes
+us think we’re not capable, against the codes, the shame, the received opinion.
+It means resisting against the conclusion that we should stay into our routine
+already set.
+
+Writing consists in feeding one’s mind. Like painting, playing music. It
+consists in expressing what we have deep in us through artistical detours of
+any kind.
+
+Us people enjoy writing blog posts, a lot of technical stuff or a simple
+answer on forums. This does not look like a piece of work for sure, because we
+are passionate about what we do. This means a lot to me and probably to you.
+
+Since it is hard for me to keep up with a lasting project, in addition of
+enjoying writing… I made a decision. I *had* to set out to write a novel. If
+other mates did it, why wouldn’t I, after all?
+
+The NaNoWriMo was the appropriate time.
