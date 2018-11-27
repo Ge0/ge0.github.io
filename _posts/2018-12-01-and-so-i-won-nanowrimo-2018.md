@@ -141,7 +141,7 @@ In a nutshell, the very first source of information I dug into was the *Soie et
 Lumières* book, from Christian Polak. I had to pay a visit to the french
 National Library for that.
 
-*Figure*
+![Soie et Lumières, Christian Polak](/assets/2018-12-01-nanowrimo/1c5a5d64-07f6-435f-ab25-81982fb2e6c9.jpg.jpg)
 
 It this book, I learnt about the guidelines on how went the first french
 mission in Japan. I had a plan for my novel.
@@ -159,7 +159,7 @@ mails from French people at the time in Japan.
 
 See how the folder looks like:
 
-*Figure*
+![Archive folder of the first french military mission](/assets/2018-12-01-nanowrimo/a849e1f8-62ae-4467-aaf3-ef8cc86b5a16.jpg)
 
 This board contains at least 150 years old handwritten notes, letters and
 reports. This is insane!
@@ -226,7 +226,7 @@ I finished it in two weeks, thanks to an orthogonal keyboard with a *bépo*
 layout (french *dvorak* variant) which I started using a few months earlier.
 Here is what it looks like:
 
-*Figure*
+![TypeMatrix keyboard with *bépo* layout](/assets/2018-12-01-nanowrimo/Typematrix-2030-bepo.png)
 
 Let me warn you about it. This is a double investment:
 
@@ -257,10 +257,10 @@ if we can say this is artwork…
 
 In between it made me feel like learning back japanese! I also discovered that
 a Japanese authored a novel on Jules Brunet as well! The book is entitled
-ラ・ミッション 」 which can be litteraly read “la mission” in French,
+ラ・ミッション」 which can be litteraly read “la mission” in French,
 translatable into “the mission” in english.
 
-*Figure*
+![「ラ・ミッション」from Satō Kenichi](/assets/2018-12-01-nanowrimo/e2e90572-2dac-4493-b667-68c88d659a25.jpg)
 
 On the cover, there is a drawing of Jules Brunet.
 
@@ -270,7 +270,7 @@ japanese language. The end justifies the means.
 By the way, do you want to know what did Jules Brunet look like? You can find
 it out on the picture bolow. I barely circled him in red.
 
-*Figure*
+![First french military mission](/assets/2018-12-01-nanowrimo/aec69df4-d782-4941-ad6f-659bd82207ed.jpg)
 
 I want to do the next NaNoWriMo with other ideas:
 
