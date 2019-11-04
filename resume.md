@@ -33,9 +33,9 @@ few personal projects:
   Project, is a toolsuite aimed for building an online 2D role playing game
   through an RPG Maker 2003 flavor. It is mostly written in C++, using Qt
   for the map editor, SFML for the client and Boost for the server part. I am
-  also using lua to script some Map evenements and NPC behaviour. **A game **
-  **built on top of Dummy Meuporg is being developed with two soulmates of **
-  **mine, so please check out this page frequently**.
+  also using lua to script some Map evenements and NPC behaviour. **A game
+  built on top of Dummy Meuporg is being developed with two soulmates of
+  mine, so please check out this page frequently**.
   * [Cacophony](https://github.com/cacophony-discord) is a Discord bot written
   in python which very first aim was to genereate random sentence to amuse
   people. It can be plugged in many ways though, yet the API is not clearly
