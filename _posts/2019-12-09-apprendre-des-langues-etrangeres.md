@@ -1,5 +1,3 @@
-# Apprendre des langues étrangères ?
-
 Derrière ce titre questionneur se cache une réflexion issue d'une démarche
 entièrement personnelle.
 
