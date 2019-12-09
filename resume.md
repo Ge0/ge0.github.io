@@ -35,6 +35,9 @@ Environment: Windows, C, C++.
 **EcoLapse** is a French company which sells timelapse boxes in order to
 monitor site constructions for marketing/promoting movie production.
 
+They needed an Android app that takes picture according to several parameters
+(exposure, focus, 
+
 
 ## Personal projects
 
