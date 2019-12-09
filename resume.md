@@ -10,18 +10,30 @@ permalink: /resume/
 
 Software Engineer
 
-Oct 2019 – Now: Chief Technical Officer at **42 Hexagons**
+### October 2019 – Now: Chief Technical Officer at **42 Hexagons**
 
 **42 Hexagons** is a software editor located in Massachusetts, United States.
 
 As the CTO and the co-founder, I am in charge of:
 
-  * defining the whole development process;
-  * architecturing and designing our different pieces of software;
-  * planning releases with different deadlines;
-  * providing customer support.
+  - defining the whole development process;
+  - architecturing and designing our different pieces of software;
+  - planning releases with different deadlines;
+  - providing customer support.
+  
+### April 2019 - August 2019: Software R&D Engineer at **Prim'X Technologies**
 
-*I have to fill out my resume here. Quite lazy at the moment.*
+**Prim'X Technologies** is a French Software Editor developing cryptographic
+software solutions.
+
+As a Software R&D Engineer, I had to work on the **ZoneCentral** toolsuite.
+
+Environment: Windows, C, C++.
+
+### November 2018 - February 2019: Android Developer with **EcoLapse**
+
+**EcoLapse** is a French company which sells timelapse boxes in order to
+monitor site constructions for marketing/promoting movie production.
 
 
 ## Personal projects
