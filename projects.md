@@ -23,6 +23,15 @@ mine, so please check out this page frequently**.
 If you wonder about the project's name, well, check this out (French spoken):
 [https://www.youtube.com/watch?v=HXstRfE9AVU](https://www.youtube.com/watch?v=HXstRfE9AVU)
 
+## [Inopiu Online](http://inopiu.online)
+
+If **Dummy Project** is a heart, **Inopiu Online** is a human body. As you may
+have understoop, I am working on the Dummy Projet in order to release an online
+game as soon as I can: **Inopiu Online**.
+
+At the moment, there is nothing much relevant on the website. Yet you can check
+it out on a regular basis.
+
 
 ## [Cacophony](https://github.com/cacophony-discord)
 
