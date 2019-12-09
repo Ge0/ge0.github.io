@@ -43,7 +43,7 @@ pourrez obtenir plus d’informations sur la page Wikipédia du mouvement
 artistique « [Ukiyo-e](https://fr.wikipedia.org/wiki/Ukiyo-e) ».
 
 Vraiment, je pense que les langues étrangères sont de véritables trésors
-humains dont il est possible de s’accaparer par la seule volonté d’apprendre.
+humains qu’il est possible de s’accaparer par la seule volonté d’apprendre.
 
 ## Le Français et les langues étrangères
 
