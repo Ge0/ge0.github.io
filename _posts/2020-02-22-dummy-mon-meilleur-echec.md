@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Dummy, mon meilleur échec"
+---
+
 # Dummy, mon meilleur échec
 
 J’ai, pendant plusieurs semaines, nourri cette idée de billet dans mon esprit.
