@@ -39,7 +39,7 @@ Je me suis rendu compte de cette erreur plus tard, lorsque Poulpette – une
 brillante camarade que je salue au passage — m’a montré en toute innocente une
 vidéo super intéressante sur le développement du jeu-vidéo:
 
-{% youtube UvCri1tqIxQ %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UvCri1tqIxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Dans les grandes lignes, cette vidéo explique **tout le contraire de ce que j’ai fait sur Dummy**.
 À savoir, l’importance d’aboutir à quelque chose de minimaliste en peu de temps. On appelle ça
