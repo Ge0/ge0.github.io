@@ -23,15 +23,22 @@ mine, so please check out this page frequently**.
 If you wonder about the project's name, well, check this out (French spoken):
 [https://www.youtube.com/watch?v=HXstRfE9AVU](https://www.youtube.com/watch?v=HXstRfE9AVU)
 
-## [Inopiu Online](http://inopiu.online)
+## [KoyOkulum](https://www.koyokulum.org)
 
-If **Dummy Project** is a heart, **Inopiu Online** is a human body. As you may
-have understoop, I am working on the Dummy Projet in order to release an online
-game as soon as I can: **Inopiu Online**.
+As I love both Turks and Turkey, upon meeting a good comrade of mine whose
+name is Levent, we had the idea of building a crowd-funding website to
+gather funds in order to help village schools ("köy okulları"), mostly in
+need of decent supplies to renew their school or even dress their pupils
+with decent schoes!
 
-At the moment, there is nothing much relevant on the website. Yet you can check
-it out on a regular basis.
+The website is made with Django and Boostsrap/JQuery. It took a few months
+to be released. We have made an independent association under the law of
+1901 to manage the development of the platform among other things.
 
+Last but not least, KoyOkulum's right spelling is "Köy Okulum" and stands
+for "My village school".
+
+![KoyOkulum](https://www.koyokulum.org/static/koyokulum/koyokulum.png)
 
 ## [Cacophony](https://github.com/cacophony-discord)
 
