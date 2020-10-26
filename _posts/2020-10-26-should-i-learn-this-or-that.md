@@ -100,8 +100,8 @@ I started back in 2004, so this makes 16 years. At this day I’m 31. So I have 
 
 This impresses. But it should not.
 
-Because as I said above, I have learnt things that have come irrelevant today. I have learn *fragile* things which has
-become pointless at our era, as much as I have learn things which has remained unchanged, like *algorithms* and a few
+Because as I said above, I have learned things that have come irrelevant today. I have learned *fragile* things which has
+become pointless at our era, as much as I have learned things which has remained unchanged, like *algorithms* and a few
 grasps of *computer architecture*. It's fondamental knowledge, much more important that a simple programming language.
 
 I think that in the future, the real human being related skills will be ever more relevant as we are slowly supplanted
@@ -115,6 +115,6 @@ Again, blessed Naval tells us to study microeconomics, game theory, psychology, 
 
 That's much more than learning C & C++ as most of your university teachers blindly “teach”.
 
-There are so much exciting things outside which awaits to be learnt. So much fasicating problems to solve.
+There are so much exciting things outside which awaits to be learned. So much fasicating problems to solve.
 
 The universe is complex, big, unexplored. I think this is the case for the human gender as well. 
