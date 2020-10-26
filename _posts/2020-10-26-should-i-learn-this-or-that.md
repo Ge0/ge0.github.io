@@ -96,7 +96,7 @@ is a pure waste.
 Last but not least, the last question, still not so discontinued from the other ones. How long have I been learning?
 Especially here: how long have I been learning *programming*?
 
-I started back in 2004, so this make 16 years. At this day I’m 31. So I have spent more than half my life programming.
+I started back in 2004, so this makes 16 years. At this day I’m 31. So I have spent more than half my life programming.
 
 This impresses. But it should not.
 
