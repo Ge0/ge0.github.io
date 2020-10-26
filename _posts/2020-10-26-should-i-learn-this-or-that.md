@@ -34,7 +34,7 @@ You like knitting? Just do knitting. You like painting? Just paint.
 
 I like writing, so here I am writing.
 
-You may think that I am digress from the original questions. Actually I don't think I do so.
+You may think that I am digressing from the original questions. Actually I don't think I do so.
 
 I just don’t want to answer those questions. I may have answers, but they are not the one you
 are looking for.
