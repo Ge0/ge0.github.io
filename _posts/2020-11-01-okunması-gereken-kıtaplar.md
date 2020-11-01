@@ -32,7 +32,7 @@ Teknik kitaplar (yeni bir dil öğrenmek için mesela), psikoloji kitaplar, roma
 
 Kesinlikle.
 
-Mesela, eğer sadece bir tane okundu kitaplar faizsizdir. Gerçekten iyi bir kitap işte: ne kadar defa bu kitabı okursanız, daha iyi oluyor yeni bir okumasından sonra.
+Mesela, eğer sadece bir tane okundu kitaplar varsa, faizsizdir. Gerçekten iyi bir kitap işte: ne kadar defa bu kitabı okursanız, daha iyi oluyor yeni bir okumasından sonra.
 
 Aynı şekilde, özeltleyememen kıtapları arayın. Kitap özeltleyebelirse, onun ilgisi yok. Okuma öğrenme sürecidir. Kesinlikle özleri önlemeyin.
 
