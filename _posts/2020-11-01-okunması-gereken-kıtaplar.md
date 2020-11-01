@@ -4,9 +4,9 @@ title: "Okunması gereken kıtaplar"
 ---
 
 
-Bir gün bana bu soru soruldu: “Ne kitap okumalıyım?” veya “Kendi kendisini iyileştirmek için, ne kitap okuyabilirim?” Gerçek işte, çok hatırlamıyorum.
+Bir gün bana bu soru soruldu: “Ne kitap okumalıyım?” veya “Kendi kendisini geliştirmek için, ne kitap okuyabilirim?” Gerçek işte, çok hatırlamıyorum.
 
-Türkçe fikrilerimi anlatmaya çalışacağim. Bu şekilde, Türkçemi iyileştirip sevgili arkadaşlarıma Türklere Ipuçları ve Püf noktaları vereceğim.
+Türkçe fikrilerimi anlatmaya çalışacağim. Bu şekilde, Türkçemi geliştirip sevgili arkadaşlarıma Türklere Ipuçları ve Püf noktaları vereceğim.
 
 Öncellikle, ben yazılımcılara kendime ifade ettiğimi söylemeliyim.
 
@@ -22,7 +22,7 @@ Ayrıca bilgisayar mühendislik, tüm alanlarda böyle kitap arayıp okuyorsun. 
 
 # Yazılımcı olarak, önemli olan alanlar var mı?
 
-Var tabii. Dediğim gibi, zaman boyunca değişmen bilgi var. Matematik çok güçlü bilgilerdir. Çünkü herzaman doğru veva herzaman yanlış olan şeyleri öğrenebilirsiniz. Bu şekilde yargınızı iyileştireceksiniz.
+Var tabii. Dediğim gibi, zaman boyunca değişmen bilgi var. Matematik çok güçlü bilgilerdir. Çünkü herzaman doğru veva herzaman yanlış olan şeyleri öğrenebilirsiniz. Bu şekilde yargınızı geliştireceksiniz.
 
 Görebildiğiniz gibi soru yanlızca yazılımcılar için geçerli değildir.
 
