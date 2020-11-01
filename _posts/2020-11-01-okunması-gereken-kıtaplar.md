@@ -1,4 +1,8 @@
-# Okunması gereken kıtaplar
+---
+layout: post
+title: "Okunması gereken kıtaplar"
+---
+
 
 Bir gün bana bu soru soruldu: “Ne kitap okumalıyım?” veya “Kendi kendisini iyileştirmek için, ne kitap okuyabilirim?” Gerçek işte, çok hatırlamıyorum.
 
