@@ -54,6 +54,6 @@ En çok sevdiğim denemelerden biri **Nassim Nicholas Taleb**’in _Antifragile_
 
 Bence, iyi bir yazılımcı olmadan önce, iyi biri olmamız lazım. O yüzden Progralmala üstünde olmayan kitaplardan bahas ettim. Çünkü Genel yetenekleri veriyorlar.
 
-Yakkında okuma listesi çık yayınlayacağım (ama İngilizcede çevirilecek, çünkü gördüğünüz gibi, Türkçem çok ama çok az).
+Yakkında okuma listesi çık yayınlayacağım (ama İngilizcede çevirilecek, çünkü gördüğünüz gibi, Türkçem çok ama çok iyi değil).
 
 Okumanız için teşekkür ederim.
