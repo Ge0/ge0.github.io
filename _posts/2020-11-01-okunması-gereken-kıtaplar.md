@@ -4,7 +4,7 @@ title: "Okunması gereken kıtaplar"
 ---
 
 
-Bir gün bana bu soru soruldu: “Ne kitap okumalıyım?” veya “Kendi kendisini geliştirmek için, ne kitap okuyabilirim?” Gerçek işte, çok hatırlamıyorum.
+Bir gün bana şu soru soruldu: “Ne kitap okumalıyım?” veya “Kendi kendisini geliştirmek için, ne kitap okuyabilirim?” Gerçek işte, çok hatırlamıyorum.
 
 Türkçe fikrilerimi anlatmaya çalışacağim. Bu şekilde, Türkçemi geliştirip sevgili arkadaşlarıma Türklere Ipuçları ve Püf noktaları vereceğim.
 
