@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Okunması gereken kıtaplar"
+title: "Okunması gereken kitaplar"
 ---
 
 
@@ -14,7 +14,7 @@ Türkçe fikrilerimi anlatmaya çalışacağim. Bu şekilde, Türkçemi gelişti
 
 Aslında soru sadece yazılımcı sınırlı değildir.
 
-Programlama kitapları ila problem işte: 20 yıl daha önce yazdıysa, bugün artık alakalı olmayabilir.
+Programlama kitapları illa problem işte: 20 yıl daha önce yazdıysa, bugün artık alakalı olmayabilir.
 
 Programlama öğrenmek istince, dijital içeriği almaya çalışın. Başka bir şekilde, çok değişmeyen senelerken içeriği arayıp okumayın. Çünkü içerik değişmeyecen şansların 20 yil daha sonra büyüktür.
 
@@ -34,17 +34,17 @@ Kesinlikle.
 
 Mesela, eğer sadece bir tane okundu kitaplar varsa, faizsizdir. Gerçekten iyi bir kitap işte: ne kadar defa bu kitabı okursanız, daha iyi oluyor yeni bir okumasından sonra.
 
-Aynı şekilde, özeltleyememen kıtapları arayın. Kitap özeltleyebelirse, onun ilgisi yok. Okuma öğrenme sürecidir. Kesinlikle özleri önlemeyin.
+Aynı şekilde, özetleyemeyen kıtapları arayın. Kitap özeltleyebilirse, onun ilgisi yok. Okuma öğrenme sürecidir. Kesinlikle özleri önlemeyin.
 
 # Aslında, sen kitap önerebilir misin?
 
 Tabii.
 
-Çok defa okuduğum bir kitap var aslında: Thomas Cleary'den “_Code of the Samurai: A Modern Translation of the Bushido Shoshinshu of Taira Shigesuke_”. Fransızca çeviriyi okudum ben. Türkçe çevirisi yokmuş ama İngilizce bilerseniz sıkıntı olmayacak.
+Bir kereden fazla okuduğum bir kitap var aslında: Thomas Cleary'den “_Code of the Samurai: A Modern Translation of the Bushido Shoshinshu of Taira Shigesuke_”. Fransızca çeviriyi okudum ben. Türkçe çevirisi yokmuş ama İngilizce bilerseniz sıkıntı olmayacak.
 
 İngilizce bilmiyor musunuz? İngilizce kitap okuyun.
 
-Başlangıç romanlarını severim. En sevdiğim romancı Herman Hesse. Bozkır kurdu'yu okumaya çalışabilirsiniz.
+Başlangıç romanlarını severim. En sevdiğim romancı Herman Hesse. Bozkır kurdu'nu okumaya çalışabilirsiniz.
 
 En sevdiğiniz yazar varsa, bir defa'dan daha aynı kitap okuyun.
 
@@ -52,8 +52,8 @@ En çok sevdiğim denemelerden biri **Nassim Nicholas Taleb**’in _Antifragile_
 
 # Son söz
 
-Bence, iyi bir yazılımcı olmadan önce, iyi biri olmamız lazım. O yüzden Progralmala üstünde olmayan kitaplardan bahas ettim. Çünkü Genel yetenekleri veriyorlar.
+Bence, iyi bir yazılımcı olmadan önce, iyi biri olmamız lazım. O yüzden Programlama üstünde olmayan kitaplardan bahs ettim. Çünkü Genel yetenekleri veriyorlar.
 
-Yakkında okuma listesi çık yayınlayacağım (ama İngilizcede çevirilecek, çünkü gördüğünüz gibi, Türkçem çok ama çok iyi değil).
+Yakında okuma listesi yayınlayacağım (ama İngilizcede çevirilecek, çünkü gördüğünüz gibi, Türkçem çok ama çok iyi değil ama iyi).
 
-Okumanız için teşekkür ederim.
+Okuduğunuz için teşekkür ederim.
