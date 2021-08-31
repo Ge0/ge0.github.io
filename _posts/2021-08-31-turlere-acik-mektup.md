@@ -24,3 +24,14 @@ Millet olarak olmak istemiyor musunuz?
 
 Yani üniversitéye gitmenin amacı sadece diploma almak mı? Fazla fazla yalnız hissetmiyor musunuz?
 
+“Ancak iş sabihi olmak zorunludur.” diye cevap verildim.
+
+Hayatın anmacısı iş almasıdır mı?
+
+Hayatın anmacısı kripto parayı alıp satmak mı?
+
+Hayatın anmacısı aptal bir İtalyan'ın yemek pişirmesini ve bozuk Türkçe konuşmasını izlemek mi?
+
+Neden bunları size söylüyorum peki? Sebep çoğu var.
+
+Türk vatandaşlığını almak isterdim. Tekrar Türkün kültürünü keşfetmek istiyorum. Fransa ve Türkiye ortak noktaları olduklarını zannediyorum.
