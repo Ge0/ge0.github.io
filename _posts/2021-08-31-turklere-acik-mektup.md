@@ -1,4 +1,7 @@
-# Türklere açık bir mektup
+---
+layout: post
+title: "Türklere açık mektup"
+---
 
 Nasıl baslayabileceğimi bilmiyorum.
 
