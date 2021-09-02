@@ -34,4 +34,18 @@ Hayatın anmacısı aptal bir İtalyan'ın yemek pişirmesini ve bozuk Türkçe 
 
 Neden bunları size söylüyorum peki? Sebep çoğu var.
 
-Türk vatandaşlığını almak isterdim. Tekrar Türkün kültürünü keşfetmek istiyorum. Fransa ve Türkiye ortak noktaları olduklarını zannediyorum.
+Türk vatandaşlığını almak isterdim. Tekrar Türkün kültürünü keşfetmek istiyorum. Fransa ve Türkiye ortak noktaları olduklarını zannediyorum. Bir şekilde, beraber olacağız, siz ve ben.
+
+Sizin kültürünü seviyorum. Atatürk’un fikrilerini seviyorum. Sizinle sohbet etmeyi seviyorum. Sizinle fikir paylaşmayı seviyorum. Bazılarınız gibi, Atatürk'ü tanışmak isterdim.
+
+Yaşadığım sürece, diploma almak için okumayın diye söyleyeceğim size. Katı öğretmenlere dikkat ediniz diye söyleyeceğim size.
+
+Mezun olmanız zeki olduğunuz anlamına gelmez. Mezun olmanız yoksulluktan kurtulacağınız anlamına gelmez. Allah’a inandığınız için sefaletten kaçamazsınız.
+
+Türk toplumu çürümüştür. Sorunları doğru kişiler tarafından çözülmeyi bekliyor.
+
+Ben Türk vatandaşı değilim. Ama kalbimde Türk olmaya başlıyorum. Yavaş yavaş, ama kesinlikle.
+
+Ve Türklerle vakit geçirmeyi seven bir Türk kardeşi olarak, size söyleyeyim: özgür bir ruh tutun.
+
+Ne mutlu Türküm diyene.
