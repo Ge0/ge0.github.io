@@ -28,7 +28,7 @@ Merhaba. Ben Geoffrey - ya da Ge0 diyebilirsiniz - ve çeşitli projelerin üst�
 bir türlü şeyi ince ayar yapmaktan hoşlanıyorum.
 
 Burada, hepsinin ve hiçbir şeyin üstünde bilet yayınlamaya çalışacağım. `jekyll` ve
-`markdown` ile kendi kendisi halletmesi problem olmamalı.
+`markdown` ile kendi kendisinin halletmesi problem olmamalıdır.
 
 Bu arada gördüğünüz gibi Türkçem İngilizcem kadar değildir, o zaman ne okuduğunuza
 dikkat edin lütfen!
