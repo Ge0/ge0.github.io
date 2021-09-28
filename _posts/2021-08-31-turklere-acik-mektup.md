@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Türklere açık mektup"
+comments: true
 ---
 
 Nasıl baslayabileceğimi bilmiyorum.

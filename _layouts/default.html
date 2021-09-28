@@ -11,7 +11,12 @@
       <div class="wrapper">
         {{ content }}
       </div>
+	  
+	  {% if page.comments %}
+		{% include disqus.html %}
+	  {% endif %}
     </main>
+	
 
     {%- include footer.html -%}
 	{% include analytics.html %}
