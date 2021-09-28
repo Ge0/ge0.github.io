@@ -30,5 +30,5 @@ bir türlü şeyi ince ayar yapmaktan hoşlanıyorum.
 Burada, hepsinin ve hiçbir şeyin üstünde bilet yayınlamaya çalışacağım. `jekyll` ve
 `markdown` ile kendi kendisinin halletmesi problem olmamalıdır.
 
-Bu arada gördüğünüz gibi Türkçem İngilizcem kadar değildir, o zaman ne okuduğunuza
+Bu arada gördüğünüz gibi Türkçem İngilizcem kadar iyi değildir, o zaman ne okuduğunuza
 dikkat edin lütfen!
