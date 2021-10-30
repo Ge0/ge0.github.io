@@ -103,12 +103,12 @@ Maintenant, revenons à la question que j’ai posée plus haut :
 
 Ce qu’il s’était passé dans ma tête en 2017 était la chose suivante : j’étais gauchisé et je voyais que Jean-Luc Mélenchon
 était haut dans les sondages. Si à l’époque j’aurais pu porter un crédit quelconque à des gens comme Nathalie Arthaud ou
-Philippe Poutoux (ce qui n’est absolument plus le cas aujourd’hui), le fait de voir qu’ils n’avaient que peu d’intention de vote
+Philippe Poutou (ce qui n’est absolument plus le cas aujourd’hui), le fait de voir qu’ils n’avaient que peu d’intention de vote
 m’ont ordinairement détourné de m’intéresser à eux. Il faut aussi avouer que je n’avais pas vu le débat présidentiel à l’époque.
 
 Le fait est que la plupart d’entre nous n’ont pas le temps de nous intéresser à ces choses-là, alors nous utilisons des biais (parce que c’est plus pratique) et le fait de
 voire poindre des informations matraquantes comme « M. Zemmour monte dans les sondages » nous amènerait peut-être à penser : « il faut voter utile pour que M. Zemmour ne passe pas ». C’est comme ça que je le vois.
 
-Maintenant, si j’ai avoué ne pas avoir l’intention de voter pour Nathalie Arthaud ou Philippe Poutoux, mon choix électoral se précise, il sera raisonné, mais cela n’empêche pas que je crains un pronostic tel que j’ai décrit plus haut, parce qu’il semblerait qu’on essaie de nous faire avaler la pillule encore une fois.
+Maintenant, si j’ai avoué ne pas avoir l’intention de voter pour Nathalie Arthaud ou Philippe Poutou, mon choix électoral se précise, il sera raisonné, mais cela n’empêche pas que je crains un pronostic tel que j’ai décrit plus haut, parce qu’il semblerait qu’on essaie de nous faire avaler la pillule encore une fois.
 
 En espérant que j’ai tort.
