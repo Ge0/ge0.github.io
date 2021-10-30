@@ -95,6 +95,8 @@ Ainsi mon pronostic est le suivant : si Emmanuel Macron se présente à nouveau 
 
 En ce sens, l’hypothèse d’un second tour Macron - Zemmour me paraît tout indiquée, si ce n’est pas un second Macron - Le Pen.
 
+## Le mot de la fin
+
 Maintenant, revenons à la question que j’ai posée plus haut : 
 
 > À ce moment-là, on est en droit de se demander : « qu’est-ce qu’il se passe dans la tête des gens ? »
