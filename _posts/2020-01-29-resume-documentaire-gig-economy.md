@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "L'enfer d'un livreur cycliste"
+categories: Personal
+comments: true
 ---
 
 Dans le cadre d'un projet personnel avec un ami, j'ai visionné le reportage

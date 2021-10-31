@@ -20,8 +20,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   kinds.
 baseurl: "/" # the subpath of your site, e.g. /blog
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://ge0.github.io" 
+url: "https://ge0.dev" 
 github_username:  Ge0
+permalink: /:categories/:title
 
 # Build settings
 markdown: kramdown

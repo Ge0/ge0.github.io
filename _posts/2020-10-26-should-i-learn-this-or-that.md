@@ -1,4 +1,8 @@
-# Should I learn this or that?
+---
+layout: post
+title: "Should I Learn This Or That?"
+categories: Personal
+---
 
 Recently, as I have been hanging around programmer communities and meeting new exciting people, I was often asked interesting questions like:
 

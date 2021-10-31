@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "And So I Won NaNoWriMo 2018!"
+categories: Personal
+comments: true
 ---
 
 Every year, the [NaNoWriMo](!https://nanowrimo.org), which stands for *National

@@ -2,6 +2,7 @@
 layout: post
 title: "Pronostics pour la présidentielle de 2022"
 comments: true
+categories: Personal
 ---
 
 TL;DR: Emmanuel Macron est élu pour un second mandat.

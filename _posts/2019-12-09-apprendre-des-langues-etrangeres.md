@@ -1,3 +1,10 @@
+---
+title: "Apprendre les langues étrangères"
+comments: true
+catégories: Personal
+layout: post
+---
+
 Derrière ce titre questionneur se cache une réflexion issue d'une démarche
 entièrement personnelle.
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Dummy, mon meilleur échec"
+categories: Tech
+comments: true
 ---
-
-# Dummy, mon meilleur échec
 
 J’ai, pendant plusieurs semaines, nourri cette idée de billet dans mon esprit.
 C’est la première fois depuis toute mon épopée de programmeur amateur que je

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Okunması gereken kitaplar"
+categories: Personal
+comments: true
 ---
 
 

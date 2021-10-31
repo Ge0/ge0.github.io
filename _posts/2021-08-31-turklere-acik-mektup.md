@@ -2,6 +2,7 @@
 layout: post
 title: "Türklere açık mektup"
 comments: true
+categories: Personal
 ---
 
 Nasıl baslayabileceğimi bilmiyorum.
