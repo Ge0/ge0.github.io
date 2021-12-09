@@ -103,7 +103,7 @@ Maintenant, revenons à la question que j’ai posée plus haut :
 > À ce moment-là, on est en droit de se demander : « qu’est-ce qu’il se passe dans la tête des gens ? »
 
 Ce qu’il s’était passé dans ma tête en 2017 était la chose suivante : j’étais gauchisé et je voyais que Jean-Luc Mélenchon
-était haut dans les sondages. Si à l’époque j’aurais pu porter un crédit quelconque à des gens comme Nathalie Arthaud ou
+était haut dans les sondages. Si à l’époque j’avais pu porter un crédit quelconque à des gens comme Nathalie Arthaud ou
 Philippe Poutou (ce qui n’est absolument plus le cas aujourd’hui), le fait de voir qu’ils n’avaient que peu d’intention de vote
 m’ont ordinairement détourné de m’intéresser à eux. Il faut aussi avouer que je n’avais pas vu le débat présidentiel à l’époque.
 
