@@ -4,26 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-# Professional projects
+# Profesional projects
 
-## [Flexomatic](https://www.flexomatic.app)
-
-Flexomatic is an app which lets independent Amazon deliverers grab “blocks”
-automatically according to their schedule.
-
-A block is a term describing a shift, where the deliverer goes to a warehouse,
-gather packages and get them delivered to one or several addresses.
-
-Amazon Flex offers reverse auctions; people have to accept on the app offers
-where they see a wage, a time schedule and a location. Plus they have to accept
-the offer **fast**.
-
-That's where Flexomatic comes in between to ease the process of accepting
-offers according to the deliverer's constraints.
-
-I am the main developer of the app, and currently the Chief Technical Officer
-(well, technically, being a CTO is cumbersome, so I’m not sure I’m proud of
-being that!).
+Too much.
 
 # Personal projects
 
