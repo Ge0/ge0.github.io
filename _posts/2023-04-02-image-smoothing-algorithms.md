@@ -211,3 +211,88 @@ That’s quite different from the output shown from our reference article. So wh
 
 The answer is: the mode algorithm does not fit to our noise removal issue. Let’s study other algorithms, now that
 we have grasped a few things and come up with a script we can modify later on!
+
+## Median Filter Algorithm
+
+Contrary to the mode filter algorithm, the median filter one consists in taking the median value of our matrix for our
+filtered pixel.
+
+Back with our matrix:
+
+$$
+\begin{equation*}
+\begin{bmatrix}
+255 & 102 & 101 \\
+107 & 0 & 105 \\
+106 & 107 & 105
+\end{bmatrix}
+\end{equation*}
+$$
+
+Sorting the values, we have : 0, 101, 102, 105, 105, 106, 107, 107, 255. So we take the value which splits the list in
+two halfs of same size is <strong>105</strong> :
+
+0, 101, 102, 105, <strong>105</strong>, 106, 107, 107, 255.
+
+All we have to do is edit our script to write a simple `compute_median` function like this:
+
+```python
+def compute_median(matrix):
+    """Get the median of the *matrix*.
+    
+    Just sort the list and get the value at the middle.
+    
+    """
+    return sorted(matrix)[len(matrix) // 2]
+```
+
+Do not forget to call it instead of `compute_median` in your previous script. I trust you not to past yet another
+script which will likely be the same.
+
+Running the script produces a much better result as you can see:
+
+![Result of the median filter](/assets/2023-04-02-image-smoothing-algorithms/median-filter.png)
+
+There are still a couple of trailing, black’n’white pixels here and there, but, hey, it’s much, much better than the mode filter, right?!
+
+Can we do better?!
+
+## Mean Filter Algorithm
+
+Even simpler than the previous filters: sum the elements of the matrice, divide by the number of elements and use the result as our pixel value.
+
+Back with our matrix:
+
+$$
+\begin{equation*}
+\begin{bmatrix}
+255 & 102 & 101 \\
+107 & 0 & 105 \\
+106 & 107 & 105
+\end{bmatrix}
+\end{equation*}
+$$
+
+Summing the values, we have : $$0 + 101 + 102 + 105 + 105 + 106 + 107 + 107 + 255 = 988$$
+
+ Then we divide by 9 :
+ 
+ $$988 \div 9 \approx 109$$
+
+ Our pixel will have the value “109”. Here is our python function:
+
+ ```python
+ def compute_mean(matrix):
+    """Get the mean of the *matrix*.
+    
+    Sums the element then divide by the number of elements.
+    
+    """
+    return sum(matrix)//len(matrix)
+```
+
+Running the script does not produce a nice result, but our black’n’white pixels seem to be gone!
+
+![Result of the neam filter](/assets/2023-04-02-image-smoothing-algorithms/mean-filter.png)
+
+So, what’s left?
