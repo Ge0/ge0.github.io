@@ -121,4 +121,93 @@ In here you can chose either modes we have come up with, so let’s stick with 1
 
 I hope that you have grasped the concept, so now it is time to write some python script to smooth our image using this mode algorithm thing.
 
-(to be continued…)
+Here is the content of our file called `mode-filter.py`.
+
+```python
+#!/usr/bin/env python
+import sys
+from collections import defaultdict
+
+from PIL import Image
+
+
+def compute_mode(matrix):
+    """Get the mode of the *matrix*.
+
+    If there are more than one mode, return the first one.
+
+    """
+    occurrences = defaultdict(int)
+    for element in matrix:
+        occurrences[element] += 1
+    return sorted(occurrences.items(), reverse=True, key=lambda a: a[1])[0][0]
+
+
+def main(args):
+    if len(args) < 3:
+        print(f"Usage: {args[0]} IMAGE_IN IMAGE_OUT", file=sys.stderr)
+        raise SystemExit(-1)
+
+    filename_in, filename_out, *_ = args[1:]
+
+    # Create a pillow representation corresponding to our input image.
+    image_in = Image.open(filename_in)
+
+    # Create an output image with the same dimensions of the input one.
+    image_out = Image.new("L", image_in.size)
+
+    for y in range(image_in.size[1]):
+        for x in range(image_in.size[0]):
+            # Read the nine pixels (if possible) from our position.
+            # We are ensuring we do not go beyond our picture’s boundaries.
+            pixels = [
+                [
+                    image_in.getpixel((i, j))[0]
+                    for i in range(x, x + 3)
+                    if i < image_in.size[0]
+                ]
+                for j in range(y, y + 3)
+                if j < image_in.size[1]
+            ]
+
+            # Flatten our two dimensional array to a one-dimension array.
+            # We are only doing this to better compute the mode of our matrix.
+            flattened_matrix = [e for row in pixels for e in row]
+
+            # Compute the mode.
+            mode = compute_mode(flattened_matrix)
+
+            # Create a pixel out of it into our new image.
+            image_out.putpixel((x, y), mode)
+
+    # Output the image out.
+    image_out.save(filename_out, "PNG")
+
+    print(f"[+] Output image saved at {filename_out}!")
+
+
+if __name__ == "__main__":
+    main(sys.argv)
+```
+
+Make sure you install the right dependencies:
+
+```bash
+$ pip install pillow
+```
+
+Then the usage is pretty straightforward:
+
+```bash
+$ python mode-filter.py filter-me.png mode-filtered.png
+[+] Output image saved at mode-filtered.png!
+```
+
+Yet the result is disgusting:
+
+![Result of the mode filter](/assets/2023-04-02-image-smoothing-algorithms/mode-filter.png)
+
+That’s quite different from the output shown from our reference article. So what is wrong?
+
+The answer is: the mode algorithm does not fit to our noise removal issue. Let’s study other algorithms, now that
+we have grasped a few things and come up with a script we can modify later on!
