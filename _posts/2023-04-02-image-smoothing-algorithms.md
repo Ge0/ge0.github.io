@@ -296,3 +296,45 @@ Running the script does not produce a nice result, but our black’n’white pix
 ![Result of the neam filter](/assets/2023-04-02-image-smoothing-algorithms/mean-filter.png)
 
 So, what’s left?
+
+## Gaussian Filter Algorithm
+
+The Gaussian Filter Algorithm is entitled as is from the well known Gaussian function which looks like a bell.
+
+It is similar to the mean filter, where the result pixel is the mean of all of our pixels, **but** there is a weight applied to our initial pixel’s distance.
+
+As you may have seen in our previous example with the mean filter, the resulting picture have quite some noise. It is because the algorithm does not take into account the pixel’s distance from our result pixel. This is even more problematic in our example where we have this issue of black’n’white pixels we want to get rid of.
+
+Specifically, suppose you are dealing with a “normal pixel” and that there is a either black or white pixel in the resulting 3x3 matrix to apply our filter on. This noisy, black or white pixel will have a significant weight on the resulting mean.
+
+To address this issue, we may use a gaussian function. Bear with me here, because it might make some people run away. Here is our 2D gaussian function:
+
+$$
+
+G(x, y) = \frac{1}{2\pi\sigma^2}e^{-\frac{x^2+y^2}{2\sigma^2}}
+
+$$
+
+Where :
+
+* x and y will be our pixel’s coordinates, relatively to our matrix (**NOT** the picture!);
+* $$\sigma$$ (referring to as “sigma” like in the Greek alphabet) is the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation). Its value can be from 1 to the infinite.
+
+As our function is a **Gaussian function**, the sum of the elements of our 3x3 kernel matrix for the gaussian filter must be equal to 1.
+
+Put “simply”, for a 3x3 matrix:
+
+$$
+\sum_{x=0}^2 \sum_{y=0}^2 G(x,y) = 1
+$$
+
+So, for instance, for every matrix coordinates `(0, 0)`, `(0, 1)`, `(0, 2)`, `(1, 0)`… Let’s compute the result of our gaussian function for $$\sigma = 1$$ (which is sufficient for a 3x3 matrix).
+
+$$
+\begin{align}
+G(0,0) &= \frac{1}{2\pi\sigma^2}e^{-\frac{0^2+0^2}{2\sigma^2}} \\ \\
+&= \frac{1}{2\pi\sigma^2}e^{0} \\ \\
+&= \frac{1}{2\pi\sigma^2} \\ \\
+&= \frac{1}{2\pi}
+\end{align}
+$$
