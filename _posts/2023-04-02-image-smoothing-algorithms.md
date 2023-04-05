@@ -5,7 +5,7 @@ categories: Tech
 comments: true
 ---
 
-During my eternal quest to knowledge, I went accross this article: http://blog.geveo.com/Image-Smoothing-Algorithms
+During my eternal quest to knowledge, I went accross this article: [http://blog.geveo.com/Image-Smoothing-Algorithms](http://blog.geveo.com/Image-Smoothing-Algorithms)
 
 I have a lot of personal projects (I mean, quiiiiiite a lot). So I may experiment a few things and read a lot of technical contents.
 
@@ -293,7 +293,7 @@ Summing the values, we have : $$0 + 101 + 102 + 105 + 105 + 106 + 107 + 107 + 25
 
 Running the script does not produce a nice result, but our black’n’white pixels seem to be gone!
 
-![Result of the neam filter](/assets/2023-04-02-image-smoothing-algorithms/mean-filter.png)
+![Result of the mean filter](/assets/2023-04-02-image-smoothing-algorithms/mean-filter.png)
 
 So, what’s left?
 
@@ -320,21 +320,90 @@ Where :
 * x and y will be our pixel’s coordinates, relatively to our matrix (**NOT** the picture!);
 * $$\sigma$$ (referring to as “sigma” like in the Greek alphabet) is the [standard deviation](https://en.wikipedia.org/wiki/Standard_deviation). Its value can be from 1 to the infinite.
 
-As our function is a **Gaussian function**, the sum of the elements of our 3x3 kernel matrix for the gaussian filter must be equal to 1.
+But this does not help us much here. What will help us in our algorithm is a 3x3 matrix of coefficients, where the sum of all the elements will be equal to 1.
 
-Put “simply”, for a 3x3 matrix:
+Let G our matrix to use for the Gaussian filter algorithm. Conventionally, its value will be:
 
 $$
-\sum_{x=0}^2 \sum_{y=0}^2 G(x,y) = 1
+G = \frac{1}{16}\begin{equation*}
+\begin{bmatrix}
+1 & 2 & 1 \\
+2 & 4 & 2 \\
+1 & 2 & 1
+\end{bmatrix}
+\end{equation*}
 $$
 
-So, for instance, for every matrix coordinates `(0, 0)`, `(0, 1)`, `(0, 2)`, `(1, 0)`… Let’s compute the result of our gaussian function for $$\sigma = 1$$ (which is sufficient for a 3x3 matrix).
+We can also observe that:
+
+ $$\sum_{i=1}^3\sum_{j=1}^3 G_{ij} = 1$$
+
+ Or, simply put:
+
+ $$\frac{1}{16} + \frac{2}{16} + \frac{1}{16} + \frac{2}{16} + \frac{4}{16} + \frac{2}{16} + \frac{1}{16} + \frac{2}{16} + \frac{1}{16} = 1$$
+
+ How do we put it all together? Well, let’s take back our initial pixel of matrix. Let’s call it P.
+
+ $$
+P = \begin{equation*}
+\begin{bmatrix}
+255 & 102 & 101 \\
+107 & 0 & 105 \\
+106 & 107 & 105
+\end{bmatrix}
+\end{equation*}
+$$
+
+Applying the gaussian filter algorithm, the resulting pixel will be :
+
+$$\sum_{i=1}^3\sum_{j=1}^3 P_{ij} \times G_{ij}$$
+
+In our example, letting *p* being our pixel’s value :
 
 $$
 \begin{align}
-G(0,0) &= \frac{1}{2\pi\sigma^2}e^{-\frac{0^2+0^2}{2\sigma^2}} \\ \\
-&= \frac{1}{2\pi\sigma^2}e^{0} \\ \\
-&= \frac{1}{2\pi\sigma^2} \\ \\
-&= \frac{1}{2\pi}
+p &= \frac{255 \times 1 + 102 \times 2 + 101 \times 1 + 107 \times 2 + 0 \times 4+ 105 \times 2 + 106 \times 1 + 107 \times 2 + 105 \times 1}{16} \\ \\
+&= \frac{255 + 204 + 101 + 214 + 0 + 210 + 106 + 214 + 105}{16} \\ \\
+&= \frac{1409}{16} \\ \\
+&= 88.0625 \\ \\
+&\approx 88
 \end{align}
 $$
+
+Let’s code our function to get this value.
+
+```python
+def compute_gaussian(matrix):
+    """Compute the value of our pixel using the gaussian *matrix*.
+
+    Here, we will assume that *matrix* is a list of 9 elements (3x3).
+
+    If the matrix is less than 9 elements, it means that we are at the
+    edges of the picture, so we won’t take into account the elements.
+
+    """
+    coefficients = {i: matrix[i] if i < len(matrix) else 0 for i in range(9)}
+    return int(
+        coefficients.get(0, 0) * (1 / 16)
+        + coefficients[1] * (2 / 16)
+        + coefficients[2] * (1 / 16)
+        + coefficients[3] * (2 / 16)
+        + coefficients[4] * (4 / 16)
+        + coefficients[5] * (2 / 16)
+        + coefficients[6] * (1 / 16)
+        + coefficients[7] * (2 / 16)
+        + coefficients[8] * (1 / 16)
+    )
+```
+
+Adjusting the script and running it again produces the result below:
+
+![Result of the gaussian filter](/assets/2023-04-02-image-smoothing-algorithms/gaussian-filter.png)
+
+The image still seems noisy, in addition to being blury. Not what I personally expected.
+
+So far, the algorithm that produced the best output is the **median** algorithm, probably because it reused a value of the picture for our output pixel, so the algorithm to use must depend of the type of noise and the context.
+
+Still, I felt the urge of writing this somewhat incomplete post, as the one I read seemed incomplete to me.
+
+Last but not least, I made the decision to use the `pillow` library and write some low level algorithms by myself to better understand how the algorithms work, but you may expect the same results by using the `numpy` and `opencv-python` libraries!
