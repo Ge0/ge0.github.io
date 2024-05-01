@@ -18,10 +18,6 @@ bidouiller des choses en tout genre sur des projets divers.
 Ici, je vais essayer de publier des billets sur tout et rien. Me débrouiller
 avec `jekyll` et `markdown` ne devrait pas poser de problème.
 
-Si vous recherchez du contenu français, peut-être que
-[Mon profil sur Zeste De Savoir](https://zestedesavoir.com/membres/voir/Ge0/)
-peut vous intéresser.
-
 ***
 
 Merhaba. Ben Geoffrey - ya da Ge0 diyebilirsiniz - ve çeşitli projelerin üstünde
