@@ -57,7 +57,8 @@ dans d’autres preuves plus conséquentes. Inutile de se répéter.
 
 **Axiome 12** : $$\forall a, b, c \in \mathbb{Z}, a = b \wedge b = c \Longrightarrow a = c$$. Traduction : « si a est égal à b et b est égal à c, alors a est égal à c ». L’égalité est **transitive**.
 
-**Axiome 13** : $$\forall a, b, c \in \mathbb{Z}, a = b \Longrightarrow a + c = b + c$$. Traduction : « pour tous entiers relatifs a, b et c, si a est égal à b, alors a + c est égal à b + c ». Dit plus simplement : si on a $$a = b$$ alors a peut être substitué par b sans changer le sens de l’expression.
+**Axiome 13** : $$\forall a, b, c \in \mathbb{Z}, a = b \Longrightarrow a + c = b + c$$. Traduction : « pour tous entiers relatifs $$a$$, $$b$$ et $$c$$,
+si $$a$$ est égal à $$b$$, alors $$a + c$$ est égal à $$b + c$$ ». Dit plus simplement : si on a $$a = b$$ alors a peut être substitué par b sans changer le sens de l’expression.
 
 **Axiome 14** : $$\forall{a} \in \mathbb{Z}, \neg(a \neq a)$$. Traduction : « Pour tout entier relatif a, l’inégalité a ≠ a est fausse. Autrement dit, l’opérateur $$≠$$ n’est pas réflexif. Cet axiome peut sembler trivial car il semble redondant avec l’axiome 10, mais il souligne le fait que **l’inégalité n’est pas réflexive**.
 
@@ -104,3 +105,58 @@ $$
 
 Grâce à cette proposition prouvée formellement, nous pouvons nous en servir dans d’autres preuves, en « raccourcissant »
 le fait que $$(a + b)c = ac + bc$$ sans devoir nous justifier autre que d’indiquer « d’après la proposition 1 ».
+
+**Proposition 2** : $$\forall a \in \mathbb{Z}, 0 + a = a \wedge 1 · a = a$$.
+
+Pour tout entier relatif a, les égalités 0 + a = a et 1 · a = a sont vraies.
+
+Preuve : d’après l’axiome 1, l’addition est commutative. Ainsi :
+
+$$0 + a = a + 0$$
+
+De plus, d’après l’axome 6, il existe un entier relatif 0 tel que $$a + 0 = a$$ ($$0$$ est l’élément neutre additif).
+
+Nous avons prouvé que $$0 + a = a + 0 = a$$, mais la preuve ne s’arrête pas là.
+
+D’après l’axiome 4, la multiplication est commutative. Ainsi :
+
+$$1 · a = a · 1$$
+
+Ensuite, d’après l’axième 7, il existe un entier relatif 1 tel que $$a · 1 = a$$ ($$1$$ est l’élément neutre multiplicatif, ou élément identité de la multiplication).
+
+Nous avons également prouvé que $$1 · a = a · 1 = a$$.
+
+Par conséquent, pour tout entier relatif a, nous avons bien $$0 + a = a$$ **et** $$1 · a = a$$.
+
+
+**Proposition 3** : $$\forall a \in \mathbb Z, (-a) + a = 0$$
+
+Pour tout entier relatif a, l’égalité (-a) + a = 0 est vraie.
+
+Preuve : on utilise l’axiome 1 (commutativité de l’addition) et l’axiome 8 sur l’inverse additif. Ainsi :
+
+$$\begin{aligned}
+(-a) + a &= a + (-a) \ \ &(axiome\ 1) \\
+        &= 0\ \ &(axiome\ 8)
+\end{aligned}
+$$
+
+**Proposition 4** : $$\forall a, b, c \in \mathbb{Z}, a + b = a + c \Longrightarrow b = c$$
+
+Pour tous $$a$$, $$b$$ et $$c$$ entiers relatifs, si $$a + b = a + c$$ alors $$b = c$$.
+
+Preuve : d’après l’axiome 13, si $$a + b = a + c$$ alors $$a + b + (-a) = a + c + (-a)$$. En effet,
+dans l’hypothèse où on a $$a + b = a + c$$, on peut alors substituer $$a + b$$ à $$a + c$$ et *vice versa*.
+Il est donc possible d’ajouter un entier relatif des deux côtés de l’addition.
+
+Ensuite, étant donné que l’addition est commutative (axiome 1), on a :
+
+$$a + b + (-a) = a + c + (-a) \Longrightarrow a + (-a) + b = a + (-a) + c$$
+
+D’après l’axiome 8, il existe un inverse additif $$(-a)$$ de $$a$$ tel que $$a + (-a) = 0$$. Ainsi :
+
+$$a + (-a) + b = a + (-a) + c \Longrightarrow 0 + b = 0 + c$$
+
+Grâce à la proposition 1, nous avons montré que pour tout entier relatif $$a$$, on a $$0 + a = a$$.
+
+Ainsi : $$0 + b = 0 + c \Longrightarrow b = c$$.
