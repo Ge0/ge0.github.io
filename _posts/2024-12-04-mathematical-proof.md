@@ -122,7 +122,7 @@ D’après l’axiome 4, la multiplication est commutative. Ainsi :
 
 $$1 · a = a · 1$$
 
-Ensuite, d’après l’axième 7, il existe un entier relatif 1 tel que $$a · 1 = a$$ ($$1$$ est l’élément neutre multiplicatif, ou élément identité de la multiplication).
+Ensuite, d’après l’axiome 7, il existe un entier relatif 1 tel que $$a · 1 = a$$ ($$1$$ est l’élément neutre multiplicatif, ou élément identité de la multiplication).
 
 Nous avons également prouvé que $$1 · a = a · 1 = a$$.
 
