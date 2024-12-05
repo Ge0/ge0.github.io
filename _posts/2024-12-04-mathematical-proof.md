@@ -181,3 +181,23 @@ On se sert de la proposition 2 où nous avons démontré que pour tout entier re
 
 $$0 + b = -a \Longrightarrow b = -a$$
 
+**Proposition 6** : $$\forall a,b,c,d \in \mathbb{Z}, (a + b)(c + d) = (ac + bc) + (ad + bd)$$
+
+Pour cette proposition, nous écrirons la preuve complète avec les axiomes directement afin d’être plus concis, étant donné
+que nos propositions précédentes ont été suffisamment « verbeuses » à des fins didactiques. Notez cependant que la démarche reste la même.
+
+Preuve :
+
+$$
+\begin{aligned}
+(a + b)(c + d) &= (a + b)c + (a + b)d & (axiome\ 3) \\
+               &= c(a + b) + d(a + b) & (axiome\ 4) \\
+               &= (ca + cb) + (da + db)   & (axiome\ 3) \\
+               &= (ac + bc) + (ad + bd)   & (axiome\ 4)
+\end{aligned}
+$$
+
+Remarque : on constate que des opérations que l’on considérait comme acquises lors de nos études reposent en fait sur des axiomes et
+des démonstrations rigoureuses. Grâce à la proposition 6, nous pouvons désormais développer un produit rapidement, sans avoir à refaire la démonstration
+qui repose sur les axiomes de la commutativité et de la distributivité de la multiplication. Chose que nous
+faisions déjà « par cœur » à une certaine étape de notre éducation mathématique.
