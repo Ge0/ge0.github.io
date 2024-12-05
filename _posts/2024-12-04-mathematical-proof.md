@@ -68,7 +68,7 @@ si $$a$$ est égal à $$b$$, alors $$a + c$$ est égal à $$b + c$$ ». Dit plus
 
 Nous avons à notre disposition 16 axiomes. À partir de ceux-là, nous pouvons prouver des propositions.
 
-# Proposition
+# Propositions
 
 **Proposition 1** : $$\forall a, b, c \in \mathbb{Z}, (a + b)c = ac + bc$$.
 
