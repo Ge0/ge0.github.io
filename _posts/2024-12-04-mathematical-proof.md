@@ -160,3 +160,24 @@ $$a + (-a) + b = a + (-a) + c \Longrightarrow 0 + b = 0 + c$$
 Grâce à la proposition 1, nous avons montré que pour tout entier relatif $$a$$, on a $$0 + a = a$$.
 
 Ainsi : $$0 + b = 0 + c \Longrightarrow b = c$$.
+
+**Proposition 5** : $$\forall a, b \in \mathbb{Z}, a + b = 0 \Longrightarrow b = -a$$.
+
+Pour tous entiers relatifs $$a$$ et $$b$$, si $$a + b = 0$$ alors $$b = -a$$.
+
+Preuve : d’après l’axiome 13 :
+
+$$a + b = 0 \Longrightarrow (-a) + a + b = (-a) + 0$$
+
+D’après l’axiome 6 sur l’élément neutre additif, $$(-a) + 0 = a$$. Ainsi :
+
+$$(-a) + a + b = (-a) + 0 \Longrightarrow (-a) + a + b = -a$$
+
+D’après l’axiome 8 sur l’inverse additif, on a : $$(-a) + a + b = 0 + b$$. Aainsi :
+
+$$(-a) + a + b = -a \Longrightarrow 0 + b = -a$$
+
+On se sert de la proposition 2 où nous avons démontré que pour tout entier relatif $$a$$, on a $$0 + a = a$$. Ainsi :
+
+$$0 + b = -a \Longrightarrow b = -a$$
+
