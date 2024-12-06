@@ -208,3 +208,39 @@ Remarque : on constate que des opérations que l’on considérait comme acquise
 des démonstrations rigoureuses. Grâce à la proposition 6, nous pouvons désormais développer un produit rapidement, sans avoir à refaire la démonstration
 qui repose sur les axiomes de la commutativité et de la distributivité de la multiplication. Chose que nous
 faisions déjà « par cœur » à une certaine étape de notre éducation mathématique.
+
+**Proposition 7** : $$\forall a, b, c, d \in \mathbb{Z}, a + (b + (c + d)) = (a + b) + (c + d) = ((a + b) + c) + d$$
+
+Nous nous servirons le l’axiome 2 sur l’associativité de l’opérateur addition.
+
+Ainsi :
+
+$$
+\begin{aligned}
+a + (b + (c + d)) &= (a + b) + (c + d) & (axiome\ 2)
+                  &= ((a + b) + c) + d & (axiome\ 2)
+\end{aligned}
+$$
+
+Si la démonstration vous perturbe, reprenez l’axiome 2 : $$(a + b) + c = a + (b + c)$$ Pour mieux imager et éviter
+toute ambiguïté, utilisons à la place des lettres grecques pour l’axiome : $$(\alpha + \beta) + \gamma = \alpha + (\beta + \gamma)$$.
+
+Dans notre proposition, on retrouve bien :
+
+$$
+\begin{aligned}
+\alpha &= a
+\beta  &= b
+\gamma &= c + d
+\end{aligned}
+
+Et nous avons une forme de départ $$a + (b + c)$$. Grâce à l’axiome 4 de la commutativité, on peut écrire :
+
+$$\alpha + (\beta + \gamma) = (\alpha + \beta) + \gamma$$
+
+Ainsi :
+
+$$a + (b + (c + d)) = (a + b) + (c + d)$$
+
+C’est pourquoi la démonstration n’a pris qu’une étape, sauf qu’en réalité nous avons utilisé deux axiomes.
+Notez qu’elle reste parfaitement correcte.
