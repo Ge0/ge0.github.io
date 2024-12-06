@@ -217,7 +217,7 @@ Ainsi :
 
 $$
 \begin{aligned}
-a + (b + (c + d)) &= (a + b) + (c + d) & (axiome\ 2)
+a + (b + (c + d)) &= (a + b) + (c + d) & (axiome\ 2) \\
                   &= ((a + b) + c) + d & (axiome\ 2)
 \end{aligned}
 $$
@@ -229,10 +229,11 @@ Dans notre proposition, on retrouve bien :
 
 $$
 \begin{aligned}
-\alpha &= a
-\beta  &= b
+\alpha &= a \\
+\beta  &= b \\
 \gamma &= c + d
 \end{aligned}
+$$
 
 Et nous avons une forme de départ $$a + (b + c)$$. Grâce à l’axiome 4 de la commutativité, on peut écrire :
 
@@ -244,3 +245,66 @@ $$a + (b + (c + d)) = (a + b) + (c + d)$$
 
 C’est pourquoi la démonstration n’a pris qu’une étape, sauf qu’en réalité nous avons utilisé deux axiomes.
 Notez qu’elle reste parfaitement correcte.
+
+Enfin, à partir de $$(a + b) + (c + d)$$, posons :
+
+$$
+\begin{aligned}
+\alpha &= a + b \\
+\beta  &= c \\
+\gamma &= d
+\end{aligned}
+$$
+
+Ce qui nous donne une expression de la forme $$\alpha + (\beta + \gamma)$$. Et avec l’axiome 2 de l’associativité, nous
+pouvons écrire $$(\alpha + \beta) + \gamma$$, ce qui correspond à $$((a + b) + c) + d$$.
+
+**Proposition 8** : $$\forall a,b,c \in \mathbb{Z}, a + (b + c) = (c + a) + b$$
+
+Preuve :
+
+$$
+\begin{aligned}
+a + (b + c) &= (b + c) + a & (axiome\ 1) \\
+            &= b + (c + a) & (axiome\ 2) \\
+            &= (c + a) + b & (axiome\ 1)
+\end{aligned}
+$$
+
+**Proposition 9** : $$\forall a,b,c \in \mathbb{Z}, a(bc) = c(ab)$$
+
+Preuve :
+
+$$
+\begin{aligned}
+a(bc) &= (ab)c & (axiome\ 5) \\
+      &= c(ab) & (axiome \ 4)
+\end{aligned}
+$$
+
+**Proposition 10** : $$\forall a,b,c,d \in \mathbb{Z}, a(b + (c + d)) = (ab + ac) + ad$$
+
+Preuve :
+
+$$
+\begin{aligned}
+a(b + (c + d)) &= ab + a(c + d) & (axiome\ 3) \\
+               &= ab + (ac + ad)  & (axiome\ 3) \\
+               &= (ab + ac) + ad & (axiome\ 2)
+\end{aligned}
+$$
+
+**Proposition 11** : $$\forall a,b,c,d \in \mathbb{Z}, (a(b + c))d = (ab)d + a(cd)$$
+
+Preuve :
+
+$$
+\begin{aligned}
+(a(b + c))d &= (ab + ac)d & (axiome\ 3) \\
+            &= d(ab + ac) & (axiome\ 4) \\
+            &= d(ab) + d(ac) & (axiome\ 3) \\
+            &= (ab)d + d(ac) & (axiome\ 4) \\
+            &= (ab)d + (ac)d & (axiome\ 4) \\
+            &= (ab)d + a(cd) & (axiome 5)
+\end{aligned}
+$$
