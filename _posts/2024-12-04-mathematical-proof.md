@@ -310,3 +310,17 @@ $$
 $$
 
 **Proposition 12** : $$\forall a, b \in \mathbb{Z}, b + a = b \Longrightarrow a = 0$$
+
+Cette proposition sert à démontrer que l’élément neutre additif est **unique**. En d’autres termes,
+pour tous a et b entiers relatifs, si on $$b + a = b$$ alors $$a = 0$$.
+
+Pour prouver cela, nous pouvons réutiliser la proposition 2 où nous avons prouvé que pour tout
+entier relatif $$a$$, on a $$0 + a = a$$.
+
+En particulier, lorsque nous choisissons $$b = 0$$, on a :
+
+$$
+\begin{aligned}
+0 + a &= 0 & \\
+  a &= 0 & (proposition\ 2) $$
+
