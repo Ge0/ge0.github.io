@@ -308,3 +308,5 @@ $$
             &= (ab)d + a(cd) & (axiome\ 5)
 \end{aligned}
 $$
+
+**Proposition 12** : $$\forall a, b \in \mathbb{Z}, b + a = b \Longrightarrow a = 0$$
