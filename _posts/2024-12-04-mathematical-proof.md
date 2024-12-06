@@ -5,6 +5,13 @@ categories: Science
 comments: true
 ---
 
+# Avant propos
+
+Ce travail repose sur celui de Alistair Savage, à propos de raisonnement
+mathématique et preuves, et plus précisément sur la traduction de Simon Fortier-Garceau.
+
+Ainsi, cet article est soumis à la licence [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+
 # Définitions
 
 On note l’ensemble des *entiers* l’ensemble $$\mathbb Z$$.
