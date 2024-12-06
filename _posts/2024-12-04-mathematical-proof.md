@@ -305,6 +305,6 @@ $$
             &= d(ab) + d(ac) & (axiome\ 3) \\
             &= (ab)d + d(ac) & (axiome\ 4) \\
             &= (ab)d + (ac)d & (axiome\ 4) \\
-            &= (ab)d + a(cd) & (axiome 5)
+            &= (ab)d + a(cd) & (axiome\ 5)
 \end{aligned}
 $$
