@@ -71,8 +71,6 @@ si $$a$$ est égal à $$b$$, alors $$a + c$$ est égal à $$b + c$$ ». Dit plus
 
 **Axiome 15** : $$\forall a, b \in \mathbb{Z}, a \neq b  \Longrightarrow b \neq a$$. Traduction : « Pour tous entiers relatifs a et b, si a est différent de b, alors b est différent de a ». **L’inégalité est symétrique**.
 
-**Axiome 16** : $$\exists 2 \in \mathbb{Z}, 1 \neq 2 \wedge 2 \neq 1 \wedge \neg(1 \neq 1)$$. Traduction : « Il existe un entier relatif 2 tel que 2 est différent de 1, 1 est différent de 2 et l’inégalité 1 ≠ 1 est fausse. Il sert à souligner que **l’inégalité n’est pas transitive**.
-
 Nous avons à notre disposition 16 axiomes. À partir de ceux-là, nous pouvons prouver des propositions.
 
 # Propositions
@@ -322,5 +320,76 @@ En particulier, lorsque nous choisissons $$b = 0$$, on a :
 $$
 \begin{aligned}
 0 + a &= 0 & \\
-  a &= 0 & (proposition\ 2) $$
+  a &= 0 & (proposition\ 2)
+\end{aligned}  
+$$
 
+Étant donné que nous avons montré que lorsque $$b = 0$$ on a $$a = 0$$, qui est l’unique élément
+neutre additif possible, il n’est pas nécessaire de refaire la démonstration pour chaque $$b$$.
+
+**Proposition 13** : $$\forall a \in \mathbb{Z}, \exists b \in \mathbb{Z} : b + a = b \Longrightarrow a = 0$$
+
+Pour chaque entier relatif $$a$$, il existe un entier relatif $$b$$ de sorte que si $$b + a = b$$ alors $$a = 0$$.
+
+$$
+\begin{aligned}
+b + a &= b & \\
+(-b) + b + a &= (-b) + b & (axiome\ 13) \\
+0 + a &= 0 & (proposition\ 3) \\
+a &= 0 & (proposition\ 2)
+\end{aligned}
+$$
+
+**Proposition 14** : $$\forall a \in \mathbb{Z}, a · 0 = 0 = 0 · a$$
+
+Preuve :
+
+$$
+\begin{aligned}
+0 &= 0 + 0 & (axiome\ 6) \\
+\Longrightarrow a · 0 &= a · (0 + 0) & (axiome\ 13) \\
+\Longrightarrow a · 0 &= a · 0 + a · 0 & (axiome\ 3) \\
+\Longrightarrow a · 0 + (- (a · 0)) &= (a · 0 + a · 0) + (- (a·0)) & (axiome\ 13) \\
+\Longrightarrow a · 0 + (- (a · 0)) &= a · 0 + (a · 0 + (- (a · 0))) & (axiome\ 2) \\
+\Longrightarrow 0 &= a · 0 + 0 & (axiome\ 8) \\
+\Longrightarrow 0 &= a · 0 & (axiome\ 6) \\
+\Longrightarrow 0 &= 0 · a & (axiome\ 3)
+\end{aligned}
+$$
+
+**Proposition 15** : $$\forall a, b \in \mathbb{Z}, (2 \mid a) \wedge (2 \mid b) \Longrightarrow 2 \mid ab$$
+
+Pour tous entiers relatifs $$a$$ et $$b$$, si $$a$$ et $$b$$ sont divisibles par $$2$$, alors le produit $$ab$$ l’est aussi.
+
+Définition : $$\forall a, b \in \mathbb{Z}, b \mid a \iff \exists c \in \mathbb{Z} : a = bc$$.
+
+Autrement dit, si $$b$$ divise $$a$$, alors il existe un entier relatif $$c$$ tel que $$a = bc$$.
+
+Comment exprimer formellement qu’un nombre est divisible par 2 (ou pair) ?
+
+D’après notre définition au-dessus, cela veut dire qu’il existe un entier relatif $$c$$ tel que notre nombre divisible par $$2$$ est égal à $$2c$$.
+
+Ainsi :
+
+$$2 \mid a \Longrightarrow \exists k \in \mathbb{Z} : a = 2k$$
+
+Et :
+
+$$2 \mid b \Longrightarrow \exists j \in \mathbb{Z} : b = 2j$$
+
+En combinant les deux implications :
+
+$$(2 \mid a) \wedge (2 \mid b) \Longrightarrow \exists k, j \in \mathbb{Z} : (a = 2k) \wedge (b = 2j)$$
+
+Or :
+
+$$
+\begin{aligned}
+ab &= 2k · 2j & \\
+   &= 2 · (k · 2 · j) & (axiome\ 5)
+\end{aligned}
+$$
+
+Étant donné que $$(k · 2 · j) \in \mathbb{Z}$$, on a bien exprimé le produit $$ab$$ sous la forme $$2c$$ (ici, $$c = (k · 2 · j)$$).
+
+Par conséquent, $$2 \mid ab$$
