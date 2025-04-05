@@ -21,3 +21,5 @@ Le laze n'a pas besoin de modèles abstraits. Il a besoin de ponts entre les anc
 
 Il est temps de réinventer nos outils. De construire des grammaires enracinées dans la parole vivante, dans le quotidien, dans les besoins réels des apprenants. Des grammaires qui parlent aux enfants comme aux anciens, aux curieux comme aux professeurs. Rendre la langue au peuple, c'est peut-être ça, au fond, le plus bel acte scientifique qui soit.
 
+À propos, l’outil [https://lazuri.org/](https://lazuri.org/) se révèle être une des portes d’entrées intéressantes en la matière.
+
