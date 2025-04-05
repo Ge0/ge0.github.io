@@ -4,6 +4,10 @@ permalink: /categories/
 title: Rendre la langue au peuple : plaidoyer contre l’approche technocratique du laze
 ---
 
+## Rendre la langue au peuple : plaidoyer contre l’approche technocratique du laze
+
+*Dernière mise à jour : le samedi 5 avril 2025*
+
 Lorsqu’on aborde une langue en danger comme le laze, chaque mot, chaque structure grammaticale, chaque inflexion a le poids d'une culture en sursis. Dans ce contexte, l’approche linguistique ne peut se permettre d'être détachée, encore moins inaccessible. Or, certaines grammaires publiées autour du laze, comme celle co-signée par Gôichi Kojima, donnent la sensation d'un travail réalisé avant tout pour le prestige intellectuel, et non pour la revitalisation vivante de la langue.
 
 Il ne s'agit pas ici de défendre une vision approximative ou de dénaturer la grammaire, mais de questionner une posture académique qui, par son formalisme excessif, devient rebutante pour le grand public. La documentation du type de celle présentée sur le site [http://ayla7.free.fr/laz/1F.html](http://ayla7.free.fr/laz/1F.html) montre bien que le laze possède une richesse morphologique et syntaxique réelle, mais que celle-ci peut être abordée de manière beaucoup plus accessible, ancrée dans l'expérience vécue et non dans l'hermétisme universitaire.
