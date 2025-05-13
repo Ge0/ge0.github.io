@@ -1,7 +1,7 @@
 ---
 title: "Aimer en laze : ce que la grammaire dit de nos émotions"
 date: 2025-05-13
-categories: [linguistique, caucasien, laze]
+categories: [personal]
 tags: [laze, ergatif, datif, amour, Sapir-Whorf, typologie]
 ---
 
