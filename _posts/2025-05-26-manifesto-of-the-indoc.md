@@ -2,6 +2,7 @@
 title: Manifesto of the Indoc
 layout: post
 date: 2025-05-26
+categories: Personal
 tags: [indoc, manifesto, independent-research, philosophy, knowledge]
 ---
 
@@ -34,7 +35,7 @@ It is open to the stubbornly curious — with or without recognition.
 
 ## 🔍 What is an “Indoc”?
 
-**Indoc** stands for **indocile doctoral spirit** — a person engaged in deep intellectual, technical, or creative research **without needing a diploma, academic validation, or social status**.
+**Indoc** stands for **indocile doctor** — a person engaged in deep intellectual, technical, or creative research **without needing a diploma, academic validation, or social status**.
 
 > An Indoc is not anti-intellectual.  
 > An Indoc is an **independent thinker**, not a title-seeker.
