@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le Pacte Symétrique"
-date: 2025-07-08
+date: 2025-08-31
 categories: Personal
 ---
 
