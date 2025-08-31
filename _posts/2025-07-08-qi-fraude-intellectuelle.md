@@ -2,7 +2,7 @@
 layout: post
 title: "Pourquoi le QI est une fraude intellectuelle"
 date: 2025-07-08
-categories: [idéologie, pseudoscience, cognition]
+categories: Personal
 ---
 
 # 🧠 Le QI est une fraude intellectuelle : démonstration par A + B
