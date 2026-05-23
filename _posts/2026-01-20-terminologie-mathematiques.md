@@ -17,7 +17,7 @@ $$V$$
 
 ### Expression complexe
 
-Une expression complexe est une expression logique formée de plusieurs atomes.
+Une expression complexe est une expression logique contenant au moins un connecteur logique.
 Par exemple :
 
 $$\neg A$$
